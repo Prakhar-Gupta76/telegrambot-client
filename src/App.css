@@ -1,0 +1,13 @@
+h1 {
+  margin-left: 10px;
+}
+
+button {
+  margin: 10px;
+}
+
+.fields {
+  display: flex;
+  gap: 10px;
+  margin: 10px;
+}
